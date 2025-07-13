@@ -1,0 +1,13 @@
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\bin\Debug\MindMirror.exe.config
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\bin\Debug\MindMirror.exe
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\bin\Debug\MindMirror.pdb
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\bin\Debug\MaterialSkin.dll
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.csproj.AssemblyReference.cache
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.Properties.Resources.resources
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.csproj.GenerateResource.cache
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.csproj.CoreCompileInputs.cache
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.csproj.Up2Date
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.exe
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.pdb
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.exe.config
+C:\Users\mousa\OneDrive\Desktop\C#\MindMirror\MindMirror\obj\Debug\MindMirror.MainForm.resources
